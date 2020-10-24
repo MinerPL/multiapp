@@ -7,7 +7,7 @@ A library that allows you to easily use the api of the multiapp.xyz website
 # Example Usage
 
 ```js
-const multiapp = require("multiapp")
+const multiapp = require("multiapp-api")
 
 const client = new multiapp("MULTIAPP TOKEN");
 
