@@ -1,6 +1,6 @@
 {
-  "name": "@minerpl/multiapp",
-  "version": "1.0.0",
+  "name": "multiapp-api",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   },
   "devDependencies": {},
   "author": "minerpl",
-  "description": ""
+  "description": "A library that allows you to easily use the api of the multiapp.xyz website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinerPL/multiapp-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MinerPL/multiapp-api/issues"
+  },
+  "homepage": "https://github.com/MinerPL/multiapp-api#readme"
 }

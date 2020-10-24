@@ -1,8 +1,8 @@
 # About
 A library that allows you to easily use the api of the multiapp.xyz website
 
-# Instalation
-`npm install multiapp --save`
+# Installation
+`npm install multiapp-api --save`
 
 # Example Usage
 
