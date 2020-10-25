@@ -19,4 +19,18 @@ module.exports = class Client {
 
         return json.url;
     };
+
+    async thanos() {
+        const res = await fetch(`${config.url}images/thanos`, {
+            method: 'GET',
+            headers: {
+                "token": this.token
+            }
+        });
+        const json = await res.json();
+
+        if(json.message) return "Wrong token";
+
+        return json.url;
+    };
 };

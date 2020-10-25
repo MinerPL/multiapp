@@ -1,6 +1,6 @@
 {
   "name": "multiapp-api",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/MinerPL/multiapp-api/issues"
   },
-  "homepage": "https://github.com/MinerPL/multiapp-api#readme"
+  "homepage": "https://github.com/MinerPL/multiapp-api#readme",
+  "keywords": [
+    "multiapp",
+    "thanos",
+    "badger",
+    "multiapp-api"
+  ]
 }

@@ -17,3 +17,6 @@ const client = new multiapp("MULTIAPP TOKEN");
     console.log(badger)
 })();
 ```
+
+# Last changes
+Added support for thanos images
